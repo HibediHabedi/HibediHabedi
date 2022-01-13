@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @HibediHabedi
-- 👀 I’m interested in Android development
-- 🌱 I’m currently learning Java and Kotlin
+- 👀 I’m currently into Microsoft fullstack development
+- 🌱 I’m currently learning VBA.NET, SQL, JavaScript, OpenLayers etc.
